@@ -1,0 +1,1 @@
+gcc -c $CFILE -o "${$CSFILE%.c}.o"
