@@ -9,7 +9,7 @@ int main(void)
 {
 	int num;
 
-	for (num = 47 num < 64; num++)
+	for (num = 47; num < 64; num++)
 	{
 		if (num > 57)
 		{
