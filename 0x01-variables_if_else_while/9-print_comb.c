@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of single-digit numbers (base 10)
+ * main - Prints single-digit numbers (base 10) separated by commas and spaces
  *
  * Return: 0
  */
