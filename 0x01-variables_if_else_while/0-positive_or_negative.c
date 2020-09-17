@@ -1,6 +1,6 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <std.io>
 
 /**
  * main - Prints random number with sign desc.
