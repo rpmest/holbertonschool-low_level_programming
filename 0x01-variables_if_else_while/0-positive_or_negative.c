@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 
 /**
@@ -24,4 +25,6 @@ int main(void)
 		else
 			printf("%i is zero\n", n);
 	}
+
+	return 0;
 }
